@@ -1,1 +1,1 @@
-19-01-2025Assignment 01 10 Question
+19-01-2025Assignment 01 10 Question21-01-2025static method call from static methodstatic method call from non static methodnon static method call from static methodnon static method call from non static method
