@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Assignment3-ii/1.0.0": {
+      "Assignment3-iii/1.0.0": {
         "runtime": {
-          "Assignment3-ii.dll": {}
+          "Assignment3-iii.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Assignment3-ii/1.0.0": {
+    "Assignment3-iii/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
