@@ -1,0 +1,15 @@
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\TRANNING\Assignment3-iii\bin\Debug\net6.0\Assignment3-ii.exe
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\TRANNING\Assignment3-iii\bin\Debug\net6.0\Assignment3-ii.deps.json
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\TRANNING\Assignment3-iii\bin\Debug\net6.0\Assignment3-ii.runtimeconfig.json
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\TRANNING\Assignment3-iii\bin\Debug\net6.0\Assignment3-ii.dll
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\TRANNING\Assignment3-iii\bin\Debug\net6.0\Assignment3-ii.pdb
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\TRANNING\Assignment3-iii\obj\Debug\net6.0\Assignment3-ii.csproj.AssemblyReference.cache
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\TRANNING\Assignment3-iii\obj\Debug\net6.0\Assignment3-ii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\TRANNING\Assignment3-iii\obj\Debug\net6.0\Assignment3-ii.AssemblyInfoInputs.cache
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\TRANNING\Assignment3-iii\obj\Debug\net6.0\Assignment3-ii.AssemblyInfo.cs
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\TRANNING\Assignment3-iii\obj\Debug\net6.0\Assignment3-ii.csproj.CoreCompileInputs.cache
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\TRANNING\Assignment3-iii\obj\Debug\net6.0\Assignment3-ii.dll
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\TRANNING\Assignment3-iii\obj\Debug\net6.0\refint\Assignment3-ii.dll
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\TRANNING\Assignment3-iii\obj\Debug\net6.0\Assignment3-ii.pdb
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\TRANNING\Assignment3-iii\obj\Debug\net6.0\Assignment3-ii.genruntimeconfig.cache
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\TRANNING\Assignment3-iii\obj\Debug\net6.0\ref\Assignment3-ii.dll

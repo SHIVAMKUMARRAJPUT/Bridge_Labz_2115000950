@@ -1,13 +1,13 @@
 using System;
 class prob_05
 {
-    public static void dayCalculator(string[] args){
+    public static void dayCalculator(){
         //input from the user
         Console.WriteLine("Enter the day of the Date:");
         int day = Convert.ToInt32(Console.ReadLine()); // day
-        Console.WriteLine("Enter the day of the Month:");
+        Console.WriteLine("Enter the the Month:");
         int month =Convert.ToInt32(Console.ReadLine()); // month
-        Console.WriteLine("Enter the day of the Year:");
+        Console.WriteLine("Enter the Year:");
         int year = Convert.ToInt32(Console.ReadLine()); // year
         // Apply the formula to calculate the day of the week
         int y0 = year - (14 - month) / 12;

@@ -1,7 +1,7 @@
+using System;
 class prob_07
 {
-      public static void BMICalcu()
-    {
+      public static void BMICalcu(){
         Console.Write("Enter weight in kg: ");
         double weight = Convert.ToDouble(Console.ReadLine());
 

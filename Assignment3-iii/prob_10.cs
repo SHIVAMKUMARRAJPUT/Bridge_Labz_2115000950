@@ -1,3 +1,4 @@
+using System;
 class prob_10{
      public static void powercalcu(){
         Console.Write("Enter the number: ");
