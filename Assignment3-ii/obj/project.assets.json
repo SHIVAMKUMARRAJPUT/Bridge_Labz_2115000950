@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\BL_2115000950\\Assignment\\Assignment3-i\\Assignment3-i.csproj",
-      "projectName": "Assignment3-i",
-      "projectPath": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\BL_2115000950\\Assignment\\Assignment3-i\\Assignment3-i.csproj",
+      "projectUniqueName": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\BL_2115000950\\Assignment\\Assignment3-ii\\Assignment3-ii.csproj",
+      "projectName": "Assignment3-ii",
+      "projectPath": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\BL_2115000950\\Assignment\\Assignment3-ii\\Assignment3-ii.csproj",
       "packagesPath": "C:\\Users\\SHIVAM KUMAR RAJPUT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\BL_2115000950\\Assignment\\Assignment3-i\\obj\\",
+      "outputPath": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\BL_2115000950\\Assignment\\Assignment3-ii\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SHIVAM KUMAR RAJPUT\\AppData\\Roaming\\NuGet\\NuGet.Config"

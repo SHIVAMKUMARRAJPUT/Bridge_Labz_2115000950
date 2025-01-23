@@ -1,5 +1,5 @@
 using System;
-class Prob_03
+class prob_03
 {
     public static void GradeChecker()
     {

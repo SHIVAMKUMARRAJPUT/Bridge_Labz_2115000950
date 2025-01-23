@@ -1,3 +1,4 @@
+using System;
 class prob_05
 {
        public static void FizzBuzz(){

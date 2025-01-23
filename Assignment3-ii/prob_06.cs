@@ -1,3 +1,4 @@
+using System;
 class prob_06{
     public static void FizzBuzz2(){
         Console.Write("Enter a positive integer: ");

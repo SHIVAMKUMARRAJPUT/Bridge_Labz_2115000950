@@ -1,3 +1,4 @@
+using System;
 class prob_04{
     public static void isPrime(){
         Console.Write("Enter a number greater than 1: ");
