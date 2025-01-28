@@ -1,0 +1,15 @@
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment5-iii\bin\Debug\net6.0\Assignment5-iii.exe
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment5-iii\bin\Debug\net6.0\Assignment5-iii.deps.json
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment5-iii\bin\Debug\net6.0\Assignment5-iii.runtimeconfig.json
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment5-iii\bin\Debug\net6.0\Assignment5-iii.dll
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment5-iii\bin\Debug\net6.0\Assignment5-iii.pdb
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment5-iii\obj\Debug\net6.0\Assignment5-iii.csproj.AssemblyReference.cache
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment5-iii\obj\Debug\net6.0\Assignment5-iii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment5-iii\obj\Debug\net6.0\Assignment5-iii.AssemblyInfoInputs.cache
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment5-iii\obj\Debug\net6.0\Assignment5-iii.AssemblyInfo.cs
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment5-iii\obj\Debug\net6.0\Assignment5-iii.csproj.CoreCompileInputs.cache
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment5-iii\obj\Debug\net6.0\Assignment5-iii.dll
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment5-iii\obj\Debug\net6.0\refint\Assignment5-iii.dll
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment5-iii\obj\Debug\net6.0\Assignment5-iii.pdb
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment5-iii\obj\Debug\net6.0\Assignment5-iii.genruntimeconfig.cache
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assignment5-iii\obj\Debug\net6.0\ref\Assignment5-iii.dll
