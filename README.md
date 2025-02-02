@@ -77,3 +77,13 @@
 <ul>
   <li>Class and Object</li>
 </ul>
+<br/>
+<br/>
+02-02-2025
+
+<ul>
+    <li>C# Constructors</li>
+    <li>Instance vs. Class Variables</li>
+    <li>Access Modifiers Level 1</li>
+</ul>
+
