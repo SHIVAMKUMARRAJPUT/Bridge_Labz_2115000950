@@ -86,4 +86,11 @@
     <li>Instance vs. Class Variables</li>
     <li>Access Modifiers Level 1</li>
 </ul>
+<br/>
+04-02-2025
+<ul>
+  <li>static</li>
+  <li>sealed</li>
+  <li>is operator</li>
+</ul>
 
