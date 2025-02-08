@@ -99,4 +99,17 @@
    <li>Object Modelling<li/>
    <li>Object Relationship<li/>
 <ul/>
+<br/>
+08-02-2025
+<ul>
+            <li>Single Level Inheritance</li>
+            <li>Multilevel Inheritance</li>
+            <li>Hierarchical Inheritance</li>
+            <li>Key Features of Inheritance</li>
+            <li>Method Overriding</li>
+            <li>Constructor Inheritance in C#</li>
+            <li>Polymorphism and Inheritance</li>
+            <li>Access Modifiers and Inheritance</li>
+</ul>
+    
 
