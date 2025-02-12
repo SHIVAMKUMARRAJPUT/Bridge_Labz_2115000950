@@ -120,6 +120,182 @@
     <li>Encapsulation</li>
 </ul>
 <br/>
+10-02-2025 Assignment
+<ul>
+    <li>Inheritance</li>
+    <li>Abstract Keyword</li>
+    <li>Interface</li>
+    <li>Encapsulation</li>
+</ul>
+<br/>
+10-02-2025 Assignment
+<ul>
+    <li>Inheritance</li>
+    <li>Abstract Keyword</li>
+    <li>Interface</li>
+    <li>Encapsulation</li>
+</ul>
+<br/>
+10-02-2025 Assignment
+<ul>
+    <li>Inheritance</li>
+    <li>Abstract Keyword</li>
+    <li>Interface</li>
+    <li>Encapsulation</li>
+</ul>
+<br/>
+10-02-2025 Assignment
+<ul>
+    <li>Inheritance</li>
+    <li>Abstract Keyword</li>
+    <li>Interface</li>
+    <li>Encapsulation</li>
+</ul>
+<br/>
+10-02-2025 Assignment
+<ul>
+    <li>Inheritance</li>
+    <li>Abstract Keyword</li>
+    <li>Interface</li>
+    <li>Encapsulation</li>
+</ul>
+<br/>
+10-02-2025 Assignment
+<ul>
+    <li>Inheritance</li>
+    <li>Abstract Keyword</li>
+    <li>Interface</li>
+    <li>Encapsulation</li>
+</ul>
+<br/>
+10-02-2025 Assignment
+<ul>
+    <li>Inheritance</li>
+    <li>Abstract Keyword</li>
+    <li>Interface</li>
+    <li>Encapsulation</li>
+</ul>
+<br/>
+10-02-2025 Assignment
+<ul>
+    <li>Inheritance</li>
+    <li>Abstract Keyword</li>
+    <li>Interface</li>
+    <li>Encapsulation</li>
+</ul>
+<br/>
+10-02-2025 Assignment
+<ul>
+    <li>Inheritance</li>
+    <li>Abstract Keyword</li>
+    <li>Interface</li>
+    <li>Encapsulation</li>
+</ul>
+<br/>
+10-02-2025 Assignment
+<ul>
+    <li>Inheritance</li>
+    <li>Abstract Keyword</li>
+    <li>Interface</li>
+    <li>Encapsulation</li>
+</ul>
+<br/>
+10-02-2025 Assignment
+<ul>
+    <li>Inheritance</li>
+    <li>Abstract Keyword</li>
+    <li>Interface</li>
+    <li>Encapsulation</li>
+</ul>
+<br/>
+10-02-2025 Assignment
+<ul>
+    <li>Inheritance</li>
+    <li>Abstract Keyword</li>
+    <li>Interface</li>
+    <li>Encapsulation</li>
+</ul>
+<br/>
+10-02-2025 Assignment
+<ul>
+    <li>Inheritance</li>
+    <li>Abstract Keyword</li>
+    <li>Interface</li>
+    <li>Encapsulation</li>
+</ul>
+<br/>
+10-02-2025 Assignment
+<ul>
+    <li>Inheritance</li>
+    <li>Abstract Keyword</li>
+    <li>Interface</li>
+    <li>Encapsulation</li>
+</ul>
+<br/>
+10-02-2025 Assignment
+<ul>
+    <li>Inheritance</li>
+    <li>Abstract Keyword</li>
+    <li>Interface</li>
+    <li>Encapsulation</li>
+</ul>
+<br/>
+10-02-2025 Assignment
+<ul>
+    <li>Inheritance</li>
+    <li>Abstract Keyword</li>
+    <li>Interface</li>
+    <li>Encapsulation</li>
+</ul>
+<br/>
+10-02-2025 Assignment
+<ul>
+    <li>Inheritance</li>
+    <li>Abstract Keyword</li>
+    <li>Interface</li>
+    <li>Encapsulation</li>
+</ul>
+<br/>
+10-02-2025 Assignment
+<ul>
+    <li>Inheritance</li>
+    <li>Abstract Keyword</li>
+    <li>Interface</li>
+    <li>Encapsulation</li>
+</ul>
+<br/>
+10-02-2025 Assignment
+<ul>
+    <li>Inheritance</li>
+    <li>Abstract Keyword</li>
+    <li>Interface</li>
+    <li>Encapsulation</li>
+</ul>
+<br/>
+10-02-2025 Assignment
+<ul>
+    <li>Inheritance</li>
+    <li>Abstract Keyword</li>
+    <li>Interface</li>
+    <li>Encapsulation</li>
+</ul>
+<br/>
+10-02-2025 Assignment
+<ul>
+    <li>Inheritance</li>
+    <li>Abstract Keyword</li>
+    <li>Interface</li>
+    <li>Encapsulation</li>
+</ul>
+<br/>
+10-02-2025 Assignment
+<ul>
+    <li>Inheritance</li>
+    <li>Abstract Keyword</li>
+    <li>Interface</li>
+    <li>Encapsulation</li>
+</ul>
+<br/>
 10-02-2025 
 <ul>
     <li>Method Overriding</li>
@@ -144,4 +320,10 @@
 </ul>
 <br/>
 
-
+12-02-2025 Assignment
+<ul>
+  <li>Single Linked List</li>
+  <li>Double Linked List</li>
+  <li>Circular Linked List</li>
+</ul>
+<br/>
