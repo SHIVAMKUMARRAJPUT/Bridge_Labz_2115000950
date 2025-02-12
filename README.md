@@ -135,6 +135,13 @@
     <li>Object and Refference types</li>
    
 </ul>
+12-02-2025 
+<ul>
+    <li>LinkedList</li>
+    <li>Singly LinkedList</li>
+    <li>Double LinkedList</li>
+   
+</ul>
 <br/>
 
 
