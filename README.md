@@ -334,3 +334,10 @@
   <li>HashMap</li>
 </ul>
 <br/>
+13-02-2025 
+<ul>
+  <li>Stack implementation by Linked List</li>
+  <li>Queue implementation by Linked List</li>
+  <li>HashMap implementation by Linked List</li>
+
+</ul>
