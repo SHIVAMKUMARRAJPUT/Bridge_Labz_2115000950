@@ -1,0 +1,15 @@
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assingment15 Sorting Techniques\bin\Debug\net9.0\Assingment15 Sorting Techniques.exe
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assingment15 Sorting Techniques\bin\Debug\net9.0\Assingment15 Sorting Techniques.deps.json
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assingment15 Sorting Techniques\bin\Debug\net9.0\Assingment15 Sorting Techniques.runtimeconfig.json
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assingment15 Sorting Techniques\bin\Debug\net9.0\Assingment15 Sorting Techniques.dll
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assingment15 Sorting Techniques\bin\Debug\net9.0\Assingment15 Sorting Techniques.pdb
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assingment15 Sorting Techniques\obj\Debug\net9.0\Assingment15 Sorting Techniques.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assingment15 Sorting Techniques\obj\Debug\net9.0\Assingment15 Sorting Techniques.AssemblyInfoInputs.cache
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assingment15 Sorting Techniques\obj\Debug\net9.0\Assingment15 Sorting Techniques.AssemblyInfo.cs
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assingment15 Sorting Techniques\obj\Debug\net9.0\Assingment15 Sorting Techniques.csproj.CoreCompileInputs.cache
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assingment15 Sorting Techniques\obj\Debug\net9.0\Assingment15 Sorting Techniques.sourcelink.json
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assingment15 Sorting Techniques\obj\Debug\net9.0\Assingment15 Sorting Techniques.dll
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assingment15 Sorting Techniques\obj\Debug\net9.0\refint\Assingment15 Sorting Techniques.dll
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assingment15 Sorting Techniques\obj\Debug\net9.0\Assingment15 Sorting Techniques.pdb
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assingment15 Sorting Techniques\obj\Debug\net9.0\Assingment15 Sorting Techniques.genruntimeconfig.cache
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Assignment\Assingment15 Sorting Techniques\obj\Debug\net9.0\ref\Assingment15 Sorting Techniques.dll

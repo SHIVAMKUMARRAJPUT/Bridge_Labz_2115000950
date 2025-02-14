@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Assingment15 Sorting Techniques/1.0.0": {
+        "runtime": {
+          "Assingment15 Sorting Techniques.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assingment15 Sorting Techniques/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
