@@ -1,343 +1,160 @@
-19-01-2025 Assignment
-    <ul>
-      <li>Assignment 01 with 10 questions</li>
-    </ul>
+# C# Assignments 📅
+---
 
-<br/>
-21-01-2025
-    <ul>
-      <li>Static method call from static method</li>
-      <li>Static method call from non-static method</li>
-      <li>Non-static method call from static method</li>
-      <li>Non-static method call from non-static method</li>
-    </ul>
-  
+## 📌 19-01-2025: **Assignment 01**
+- 10 Questions on C# Basics
 
-<br/>
+---
 
-22-01-2025 Assignment
-<ul>
-  <li>C# Comments</li>
-  <li>C# Basic Data Types</li>
-  <li>C# Variables</li>
-  <li>Arithmetic Operators</li>
-  <li>Operator Precedence</li>
-  <li>Type Conversion</li>
-  <li>Taking User Input in Programs</li>
-</ul>
-<br/>
-23-01-2025 Assignment
-<ul>
-  <li>C# Control Flows</li>
-  <li>C# boolean Data Type</li>
-  <li>Boolean Expressions</li>
-  <li>Logical Operators</li>
-  <li>if Conditional Statement along with else if and final else statement</li>
-  <li>C# loops - for and while</li>
-  <li>C# break and continue statement</li>
-  <li>C# switch Statement</li>
-</ul>
+## 📌 21-01-2025: **Method Calling in C#**
+- Static method call from static method
+- Static method call from non-static method
+- Non-static method call from static method
+- Non-static method call from non-static method
 
-<br/>
-25-01-2025 Assignment
-<ul>
-  <li>C# Arrays</li>
-  <li>Create an Array</li>
-  <li>Access an Array</li>
-  <li>Accessing using for loop</li>
-  <li>Modifying an Array</li>
-  <li>Using length property of array</li>
-  <li>C# Multi-dimensional Array</li>
-  <li>C# 2 Dimensional Array (Matrix)</li>
-  <li>Accessing, finding size, etc., of Multi-Dimensional Array</li>
-  <li>Using C# Console.Error.WriteLine() Message and Environment.Exit() Method</li>
-</ul>
-<br/>
+---
 
-28-01-2025 Assignment
-<ul>
-  <li>User-Defined Methods</li>
-  <li>Using Methods Multiple Times</li>
-  <li>Making Methods More Dynamic</li>
-  <li>Recursive Methods</li>
-  <li>Static Methods in C#</li>
-  <li>.NET Standard Library Methods</li>
-  <li>System.Math Class in C#</li>
-</ul>
-<br/> 
-29-01-2025 Assignment
-<ul>
-  <li>The outcome is the usage of Strings</li>
-  <li>Handling strings and common string functions</li>
-  <li>Functions and function parameter passing, return the value of function</li>
-  <li>Use common Built-in Functions and build the logic</li>
-</ul>
-<br/>
-31-01-2025 Assignment
-<ul>
-  <li>Class and Object</li>
-</ul>
-<br/>
-<br/>
-02-02-2025 Assignment
-<ul>
-    <li>C# Constructors</li>
-    <li>Instance vs. Class Variables</li>
-    <li>Access Modifiers Level 1</li>
-</ul>
-<br/>
-04-02-2025 Assignment
-<ul>
-  <li>static</li>
-  <li>sealed</li>
-  <li>is operator</li>
-</ul>
+## 📌 22-01-2025: **C# Fundamentals**
+- C# Comments
+- C# Basic Data Types
+- C# Variables
+- Arithmetic Operators
+- Operator Precedence
+- Type Conversion
+- Taking User Input in Programs
 
-<br/>
-06-02-2025 Assignment
-<ul>
-   <li>Object Modelling<li/>
-   <li>Object Relationship<li/>
-</ul>
-<br/>
-08-02-2025 Assignment
-<ul>
-    <li>Single Level Inheritance</li>
-    <li>Multilevel Inheritance</li>
-    <li>Hierarchical Inheritance</li>
-    <li>Key Features of Inheritance</li>
-    <li>Method Overriding</li>
-    <li>Constructor Inheritance in C#</li>
-    <li>Polymorphism and Inheritance</li>
-    <li>Access Modifiers and Inheritance</li>
-</ul>
-<br/>
-10-02-2025 Assignment
-<ul>
-    <li>Inheritance</li>
-    <li>Abstract Keyword</li>
-    <li>Interface</li>
-    <li>Encapsulation</li>
-</ul>
-<br/>
-10-02-2025 Assignment
-<ul>
-    <li>Inheritance</li>
-    <li>Abstract Keyword</li>
-    <li>Interface</li>
-    <li>Encapsulation</li>
-</ul>
-<br/>
-10-02-2025 Assignment
-<ul>
-    <li>Inheritance</li>
-    <li>Abstract Keyword</li>
-    <li>Interface</li>
-    <li>Encapsulation</li>
-</ul>
-<br/>
-10-02-2025 Assignment
-<ul>
-    <li>Inheritance</li>
-    <li>Abstract Keyword</li>
-    <li>Interface</li>
-    <li>Encapsulation</li>
-</ul>
-<br/>
-10-02-2025 Assignment
-<ul>
-    <li>Inheritance</li>
-    <li>Abstract Keyword</li>
-    <li>Interface</li>
-    <li>Encapsulation</li>
-</ul>
-<br/>
-10-02-2025 Assignment
-<ul>
-    <li>Inheritance</li>
-    <li>Abstract Keyword</li>
-    <li>Interface</li>
-    <li>Encapsulation</li>
-</ul>
-<br/>
-10-02-2025 Assignment
-<ul>
-    <li>Inheritance</li>
-    <li>Abstract Keyword</li>
-    <li>Interface</li>
-    <li>Encapsulation</li>
-</ul>
-<br/>
-10-02-2025 Assignment
-<ul>
-    <li>Inheritance</li>
-    <li>Abstract Keyword</li>
-    <li>Interface</li>
-    <li>Encapsulation</li>
-</ul>
-<br/>
-10-02-2025 Assignment
-<ul>
-    <li>Inheritance</li>
-    <li>Abstract Keyword</li>
-    <li>Interface</li>
-    <li>Encapsulation</li>
-</ul>
-<br/>
-10-02-2025 Assignment
-<ul>
-    <li>Inheritance</li>
-    <li>Abstract Keyword</li>
-    <li>Interface</li>
-    <li>Encapsulation</li>
-</ul>
-<br/>
-10-02-2025 Assignment
-<ul>
-    <li>Inheritance</li>
-    <li>Abstract Keyword</li>
-    <li>Interface</li>
-    <li>Encapsulation</li>
-</ul>
-<br/>
-10-02-2025 Assignment
-<ul>
-    <li>Inheritance</li>
-    <li>Abstract Keyword</li>
-    <li>Interface</li>
-    <li>Encapsulation</li>
-</ul>
-<br/>
-10-02-2025 Assignment
-<ul>
-    <li>Inheritance</li>
-    <li>Abstract Keyword</li>
-    <li>Interface</li>
-    <li>Encapsulation</li>
-</ul>
-<br/>
-10-02-2025 Assignment
-<ul>
-    <li>Inheritance</li>
-    <li>Abstract Keyword</li>
-    <li>Interface</li>
-    <li>Encapsulation</li>
-</ul>
-<br/>
-10-02-2025 Assignment
-<ul>
-    <li>Inheritance</li>
-    <li>Abstract Keyword</li>
-    <li>Interface</li>
-    <li>Encapsulation</li>
-</ul>
-<br/>
-10-02-2025 Assignment
-<ul>
-    <li>Inheritance</li>
-    <li>Abstract Keyword</li>
-    <li>Interface</li>
-    <li>Encapsulation</li>
-</ul>
-<br/>
-10-02-2025 Assignment
-<ul>
-    <li>Inheritance</li>
-    <li>Abstract Keyword</li>
-    <li>Interface</li>
-    <li>Encapsulation</li>
-</ul>
-<br/>
-10-02-2025 Assignment
-<ul>
-    <li>Inheritance</li>
-    <li>Abstract Keyword</li>
-    <li>Interface</li>
-    <li>Encapsulation</li>
-</ul>
-<br/>
-10-02-2025 Assignment
-<ul>
-    <li>Inheritance</li>
-    <li>Abstract Keyword</li>
-    <li>Interface</li>
-    <li>Encapsulation</li>
-</ul>
-<br/>
-10-02-2025 Assignment
-<ul>
-    <li>Inheritance</li>
-    <li>Abstract Keyword</li>
-    <li>Interface</li>
-    <li>Encapsulation</li>
-</ul>
-<br/>
-10-02-2025 Assignment
-<ul>
-    <li>Inheritance</li>
-    <li>Abstract Keyword</li>
-    <li>Interface</li>
-    <li>Encapsulation</li>
-</ul>
-<br/>
-10-02-2025 Assignment
-<ul>
-    <li>Inheritance</li>
-    <li>Abstract Keyword</li>
-    <li>Interface</li>
-    <li>Encapsulation</li>
-</ul>
-<br/>
-10-02-2025 Assignment
-<ul>
-    <li>Inheritance</li>
-    <li>Abstract Keyword</li>
-    <li>Interface</li>
-    <li>Encapsulation</li>
-</ul>
-<br/>
-10-02-2025 
-<ul>
-    <li>Method Overriding</li>
-    <li> Method Overloading</li>
-    <li>Interface</li>
-   
-</ul>
-<br/>
-11-02-2025 
-<ul>
-    <li>UpCasting</li>
-    <li>DownCasting</li>
-    <li>Object and Refference types</li>
-   
-</ul>
-12-02-2025 
-<ul>
-    <li>LinkedList</li>
-    <li>Singly LinkedList</li>
-    <li>Double LinkedList</li>
-   
-</ul>
-<br/>
+---
 
-12-02-2025 Assignment
-<ul>
-  <li>Single Linked List</li>
-  <li>Double Linked List</li>
-  <li>Circular Linked List</li>
-</ul>
-<br/>
-13-02-2025 Assignment
-<ul>
-  <li>Stack</li>
-  <li>Queue</li>
-  <li>HashMap</li>
-</ul>
-<br/>
-13-02-2025 
-<ul>
-  <li>Stack implementation by Linked List</li>
-  <li>Queue implementation by Linked List</li>
-  <li>HashMap implementation by Linked List</li>
+## 📌 23-01-2025: **Control Flow & Logical Operators**
+- C# Control Flows
+- C# Boolean Data Type
+- Boolean Expressions
+- Logical Operators
+- If-Else Conditional Statements
+- Loops: `for` and `while`
+- `break` and `continue` Statements
+- `switch` Statement
 
-</ul>
+---
+
+## 📌 25-01-2025: **Arrays in C#**
+- Creating Arrays
+- Accessing Arrays
+- Iterating Arrays using `for` Loop
+- Modifying Arrays
+- Using `length` Property
+- Multi-Dimensional Arrays
+- 2D Arrays (Matrix Operations)
+- Finding Size of Multi-Dimensional Arrays
+- Using `Console.Error.WriteLine()` and `Environment.Exit()`
+
+---
+
+## 📌 28-01-2025: **Methods in C#**
+- User-Defined Methods
+- Using Methods Multiple Times
+- Making Methods More Dynamic
+- Recursive Methods
+- Static Methods in C#
+- `.NET Standard Library` Methods
+- `System.Math` Class in C#
+
+---
+
+## 📌 29-01-2025: **Working with Strings**
+- Usage of Strings
+- Handling Strings & Common String Functions
+- Functions & Function Parameter Passing
+- Returning Values from Functions
+- Using Built-in String Functions
+
+---
+
+## 📌 31-01-2025: **Object-Oriented Programming**
+- Class and Object in C#
+
+---
+
+## 📌 02-02-2025: **Constructors & Access Modifiers**
+- C# Constructors
+- Instance vs. Class Variables
+- Access Modifiers (Level 1)
+
+---
+
+## 📌 04-02-2025: **C# Keywords**
+- `static`
+- `sealed`
+- `is` Operator
+
+---
+
+## 📌 06-02-2025: **Object-Oriented Concepts**
+- Object Modeling
+- Object Relationships
+
+---
+
+## 📌 08-02-2025: **Inheritance in C#**
+- Single-Level Inheritance
+- Multi-Level Inheritance
+- Hierarchical Inheritance
+- Key Features of Inheritance
+- Method Overriding
+- Constructor Inheritance
+- Polymorphism & Inheritance
+- Access Modifiers & Inheritance
+
+---
+
+## 📌 10-02-2025: **Advanced OOP Concepts**
+- Inheritance
+- `abstract` Keyword
+- Interfaces
+- Encapsulation
+
+---
+
+## 📌 10-02-2025: **Method Overriding & Overloading**
+- Method Overriding
+- Method Overloading
+- Interface Implementation
+
+---
+
+## 📌 11-02-2025: **Type Casting in C#**
+- UpCasting
+- DownCasting
+- Object and Reference Types
+
+---
+
+## 📌 12-02-2025: **Linked Lists**
+- LinkedList Implementation
+- Singly LinkedList
+- Doubly LinkedList
+- Circular Linked List
+
+---
+
+## 📌 13-02-2025: **Data Structures in C#**
+- Stack
+- Queue
+- HashMap
+- Stack Implementation using Linked List
+- Queue Implementation using Linked List
+- HashMap Implementation using Linked List
+
+---
+
+## 📌 14-02-2025: **Sorting Algorithms**
+- Sorting Techniques
+- Sorting using Divide & Conquer Techniques
+
+---
+
+## 📌 15-02-2025: **File Handling in C#**
+- File Handling Basics
+- Creating Files
+- Reading & Writing to Files
+- Appending & Deleting Files
