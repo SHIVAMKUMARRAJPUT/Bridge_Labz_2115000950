@@ -1,160 +1,138 @@
-# C# Assignments 📅
----
+# C# Schedule  
 
-## 📌 19-01-2025: **Assignment 01**
-- 10 Questions on C# Basics
+## 19-01-2025 Assignment  
+- **Assignment 01** with 10 questions  
 
----
+## 21-01-2025  
+- Static method call from static method  
+- Static method call from non-static method  
+- Non-static method call from static method  
+- Non-static method call from non-static method  
 
-## 📌 21-01-2025: **Method Calling in C#**
-- Static method call from static method
-- Static method call from non-static method
-- Non-static method call from static method
-- Non-static method call from non-static method
+## 22-01-2025 Assignment  
+- C# Comments  
+- C# Basic Data Types  
+- C# Variables  
+- Arithmetic Operators  
+- Operator Precedence  
+- Type Conversion  
+- Taking User Input in Programs  
 
----
+## 23-01-2025 Assignment  
+- C# Control Flows  
+- C# Boolean Data Type  
+- Boolean Expressions  
+- Logical Operators  
+- `if` Conditional Statement along with `else if` and final `else` statement  
+- C# Loops - `for` and `while`  
+- C# `break` and `continue` statement  
+- C# `switch` Statement  
 
-## 📌 22-01-2025: **C# Fundamentals**
-- C# Comments
-- C# Basic Data Types
-- C# Variables
-- Arithmetic Operators
-- Operator Precedence
-- Type Conversion
-- Taking User Input in Programs
+## 25-01-2025 Assignment  
+- C# Arrays  
+- Create an Array  
+- Access an Array  
+- Accessing using `for` loop  
+- Modifying an Array  
+- Using `Length` property of array  
+- C# Multi-dimensional Array  
+- C# 2-Dimensional Array (Matrix)  
+- Accessing, finding size, etc., of Multi-Dimensional Array  
+- Using `Console.Error.WriteLine()` Message and `Environment.Exit()` Method  
 
----
+## 28-01-2025 Assignment  
+- User-Defined Methods  
+- Using Methods Multiple Times  
+- Making Methods More Dynamic  
+- Recursive Methods  
+- Static Methods in C#  
+- `.NET Standard Library` Methods  
+- `System.Math` Class in C#  
 
-## 📌 23-01-2025: **Control Flow & Logical Operators**
-- C# Control Flows
-- C# Boolean Data Type
-- Boolean Expressions
-- Logical Operators
-- If-Else Conditional Statements
-- Loops: `for` and `while`
-- `break` and `continue` Statements
-- `switch` Statement
+## 29-01-2025 Assignment  
+- The outcome is the usage of Strings  
+- Handling strings and common string functions  
+- Functions and function parameter passing, return value of function  
+- Use common Built-in Functions and build the logic  
 
----
+## 31-01-2025 Assignment  
+- Class and Object  
 
-## 📌 25-01-2025: **Arrays in C#**
-- Creating Arrays
-- Accessing Arrays
-- Iterating Arrays using `for` Loop
-- Modifying Arrays
-- Using `length` Property
-- Multi-Dimensional Arrays
-- 2D Arrays (Matrix Operations)
-- Finding Size of Multi-Dimensional Arrays
-- Using `Console.Error.WriteLine()` and `Environment.Exit()`
+## 02-02-2025 Assignment  
+- C# Constructors  
+- Instance vs. Class Variables  
+- Access Modifiers (Level 1)  
 
----
+## 04-02-2025 Assignment  
+- `static`  
+- `sealed`  
+- `is` operator  
 
-## 📌 28-01-2025: **Methods in C#**
-- User-Defined Methods
-- Using Methods Multiple Times
-- Making Methods More Dynamic
-- Recursive Methods
-- Static Methods in C#
-- `.NET Standard Library` Methods
-- `System.Math` Class in C#
+## 06-02-2025 Assignment  
+- Object Modeling  
+- Object Relationship  
 
----
+## 08-02-2025 Assignment  
+- Single Level Inheritance  
+- Multilevel Inheritance  
+- Hierarchical Inheritance  
+- Key Features of Inheritance  
+- Method Overriding  
+- Constructor Inheritance in C#  
+- Polymorphism and Inheritance  
+- Access Modifiers and Inheritance  
 
-## 📌 29-01-2025: **Working with Strings**
-- Usage of Strings
-- Handling Strings & Common String Functions
-- Functions & Function Parameter Passing
-- Returning Values from Functions
-- Using Built-in String Functions
+## 10-02-2025 Assignment  
+- Inheritance  
+- `abstract` Keyword  
+- Interface  
+- Encapsulation  
 
----
+## 10-02-2025 Additional Assignment  
+- Method Overriding  
+- Method Overloading  
+- Interface  
 
-## 📌 31-01-2025: **Object-Oriented Programming**
-- Class and Object in C#
+## 11-02-2025  
+- UpCasting  
+- DownCasting  
+- Object and Reference types  
 
----
+## 12-02-2025  
+- Linked List  
+- Singly Linked List  
+- Doubly Linked List  
 
-## 📌 02-02-2025: **Constructors & Access Modifiers**
-- C# Constructors
-- Instance vs. Class Variables
-- Access Modifiers (Level 1)
+## 12-02-2025 Assignment  
+- Single Linked List  
+- Double Linked List  
+- Circular Linked List  
 
----
+## 13-02-2025 Assignment  
+- Stack  
+- Queue  
+- HashMap  
 
-## 📌 04-02-2025: **C# Keywords**
-- `static`
-- `sealed`
-- `is` Operator
+## 13-02-2025  
+- Stack implementation using Linked List  
+- Queue implementation using Linked List  
+- HashMap implementation using Linked List  
 
----
+## 14-02-2025  
+- Sorting Techniques  
+- Sorting using Divide and Conquer Techniques  
 
-## 📌 06-02-2025: **Object-Oriented Concepts**
-- Object Modeling
-- Object Relationships
+## 14-02-2025 Assignment  
+- Implement Sorting Techniques  
+- Implement Divide and Conquer Techniques  
 
----
+## 15-02-2025  
+- File Handling Basics  
+- Create  
+- Read and Write  
+- Append and Delete  
 
-## 📌 08-02-2025: **Inheritance in C#**
-- Single-Level Inheritance
-- Multi-Level Inheritance
-- Hierarchical Inheritance
-- Key Features of Inheritance
-- Method Overriding
-- Constructor Inheritance
-- Polymorphism & Inheritance
-- Access Modifiers & Inheritance
-
----
-
-## 📌 10-02-2025: **Advanced OOP Concepts**
-- Inheritance
-- `abstract` Keyword
-- Interfaces
-- Encapsulation
-
----
-
-## 📌 10-02-2025: **Method Overriding & Overloading**
-- Method Overriding
-- Method Overloading
-- Interface Implementation
-
----
-
-## 📌 11-02-2025: **Type Casting in C#**
-- UpCasting
-- DownCasting
-- Object and Reference Types
-
----
-
-## 📌 12-02-2025: **Linked Lists**
-- LinkedList Implementation
-- Singly LinkedList
-- Doubly LinkedList
-- Circular Linked List
-
----
-
-## 📌 13-02-2025: **Data Structures in C#**
-- Stack
-- Queue
-- HashMap
-- Stack Implementation using Linked List
-- Queue Implementation using Linked List
-- HashMap Implementation using Linked List
-
----
-
-## 📌 14-02-2025: **Sorting Algorithms**
-- Sorting Techniques
-- Sorting using Divide & Conquer Techniques
-
----
-
-## 📌 15-02-2025: **File Handling in C#**
-- File Handling Basics
-- Creating Files
-- Reading & Writing to Files
-- Appending & Deleting Files
+## 16-02-2025 Assignment  
+- StringBuilder questions  
+- Binary and Linear Search questions
+- File IO Questions
