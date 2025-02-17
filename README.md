@@ -136,3 +136,15 @@
 - StringBuilder questions  
 - Binary and Linear Search questions
 - File IO Questions
+
+## 17-02-2025 
+- Generics
+- Function
+- Class 
+- Lambda Function
+
+ ## 17-02-2025 Assignment 
+ - Time Complexity Questions Comparison
+ - Sorting Comparison
+ - Linear Comparison 
+
