@@ -1,14 +1,12 @@
 ﻿using System;
-class Program{
+class Program
+{
     public static void Main(){
         // Test1.Print();
         // Test2.Print();
         // Test3.Print();
+        // FileGenerator.Print();
         // Test4.Print();
-        // Test5.Print();
-        // Test7.Print();
-        // Test8.Print();
-        // Test9.Print();
-        Test10.Print();
+        Test5.Print();
     }
 }
