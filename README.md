@@ -147,4 +147,11 @@
  - Time Complexity Questions Comparison
  - Sorting Comparison
  - Linear Comparison 
+ ## 18-02-2025 Assignment 
+ -Generic Classes
+ -Generic Methods
+ ## 18-02-2025  
+ - Simple Sort
+ - Divide and Conquer
+ - Linear and Binary Search 
 
