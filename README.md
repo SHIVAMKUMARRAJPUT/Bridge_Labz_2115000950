@@ -162,10 +162,15 @@
  ## 19-02-2025  
  - Review Question
  ## 20-02-2025 Assignment 
- -File Handling 
- -Read
- -Write
- -Update
+ - File Handling 
+ - Read
+ - Write
+ - Update
  ## 20-02-2025  
  - Pracice Question of FileHandling
+
+ ## 20-02-2025 Assignment 
+ - Exception Handling 
+ - IO Operations
+
 
