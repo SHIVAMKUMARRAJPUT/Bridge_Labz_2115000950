@@ -1,0 +1,31 @@
+# Ignore Visual Studio and build directories
+bin/
+obj/
+.vs/
+
+# Ignore Visual Studio solution and project files
+*.sln
+*.csproj
+*.user
+*.suo
+*.cache
+*.log
+
+# Ignore NuGet packages
+packages/
+*.nupkg
+project.lock.json
+
+# Ignore build artifacts
+*.exe
+*.dll
+*.pdb
+
+# Ignore user-specific files
+*.userprefs
+*.ide
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
