@@ -173,4 +173,8 @@
  - Exception Handling 
  - IO Operations
 
+ ## 22-02-2025 Assignment 
+ - Regex (Regular Expression)
+ - NUnit Testing
+
 
