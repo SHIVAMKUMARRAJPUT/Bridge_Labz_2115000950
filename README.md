@@ -177,4 +177,9 @@
  - Regex (Regular Expression)
  - NUnit Testing
 
+ ## 24-02-2025 Assignment 
+ - Reflection
+ - Annotations
+   
+
 
