@@ -180,6 +180,15 @@
  ## 24-02-2025 Assignment 
  - Reflection
  - Annotations
+
+ ## 25-02-2025 Assignment 
+ - .csv Read
+ - .csv Write
+ -  json to .csv vice versa
+
+ ## 25-02-2025  
+ - Custom Annotations Practice
+   
    
 
 
