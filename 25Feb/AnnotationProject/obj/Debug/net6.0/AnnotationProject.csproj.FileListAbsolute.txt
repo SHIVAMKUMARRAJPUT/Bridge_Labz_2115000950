@@ -1,0 +1,29 @@
+D:\VBProjectPractice\AnnotationProject\bin\Debug\net6.0\AnnotationProject.exe
+D:\VBProjectPractice\AnnotationProject\bin\Debug\net6.0\AnnotationProject.deps.json
+D:\VBProjectPractice\AnnotationProject\bin\Debug\net6.0\AnnotationProject.runtimeconfig.json
+D:\VBProjectPractice\AnnotationProject\bin\Debug\net6.0\AnnotationProject.dll
+D:\VBProjectPractice\AnnotationProject\bin\Debug\net6.0\AnnotationProject.pdb
+D:\VBProjectPractice\AnnotationProject\obj\Debug\net6.0\AnnotationProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\VBProjectPractice\AnnotationProject\obj\Debug\net6.0\AnnotationProject.AssemblyInfoInputs.cache
+D:\VBProjectPractice\AnnotationProject\obj\Debug\net6.0\AnnotationProject.AssemblyInfo.cs
+D:\VBProjectPractice\AnnotationProject\obj\Debug\net6.0\AnnotationProject.csproj.CoreCompileInputs.cache
+D:\VBProjectPractice\AnnotationProject\obj\Debug\net6.0\AnnotationProject.dll
+D:\VBProjectPractice\AnnotationProject\obj\Debug\net6.0\refint\AnnotationProject.dll
+D:\VBProjectPractice\AnnotationProject\obj\Debug\net6.0\AnnotationProject.pdb
+D:\VBProjectPractice\AnnotationProject\obj\Debug\net6.0\AnnotationProject.genruntimeconfig.cache
+D:\VBProjectPractice\AnnotationProject\obj\Debug\net6.0\ref\AnnotationProject.dll
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\AnnotationProject\bin\Debug\net6.0\AnnotationProject.exe
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\AnnotationProject\bin\Debug\net6.0\AnnotationProject.deps.json
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\AnnotationProject\bin\Debug\net6.0\AnnotationProject.runtimeconfig.json
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\AnnotationProject\bin\Debug\net6.0\AnnotationProject.dll
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\AnnotationProject\bin\Debug\net6.0\AnnotationProject.pdb
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\AnnotationProject\obj\Debug\net6.0\AnnotationProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\AnnotationProject\obj\Debug\net6.0\AnnotationProject.AssemblyInfoInputs.cache
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\AnnotationProject\obj\Debug\net6.0\AnnotationProject.AssemblyInfo.cs
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\AnnotationProject\obj\Debug\net6.0\AnnotationProject.csproj.CoreCompileInputs.cache
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\AnnotationProject\obj\Debug\net6.0\AnnotationProject.sourcelink.json
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\AnnotationProject\obj\Debug\net6.0\AnnotationProject.dll
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\AnnotationProject\obj\Debug\net6.0\refint\AnnotationProject.dll
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\AnnotationProject\obj\Debug\net6.0\AnnotationProject.pdb
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\AnnotationProject\obj\Debug\net6.0\AnnotationProject.genruntimeconfig.cache
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\AnnotationProject\obj\Debug\net6.0\ref\AnnotationProject.dll
