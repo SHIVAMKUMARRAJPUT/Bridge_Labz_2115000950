@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Name": "Shivam Kumar Rajput",
+    "Age": 25,
+    "Email": "shivam@example.com"
+  },
+  {
+    "Id": 2,
+    "Name": "Rahul Sharma",
+    "Age": 30,
+    "Email": "rahul@example.com"
+  },
+  {
+    "Id": 3,
+    "Name": "Aman Gupta",
+    "Age": 22,
+    "Email": "aman@example.com"
+  }
+]
