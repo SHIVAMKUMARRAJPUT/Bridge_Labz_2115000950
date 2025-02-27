@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\BL_2115000950\\HelloApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0417A7CF-7727-4FA0-8726-F1DDE18FEB5F}|HelloApp.csproj|c:\\users\\shivam kumar rajput\\desktop\\bl_2115000950\\helloapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0417A7CF-7727-4FA0-8726-F1DDE18FEB5F}|HelloApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545EEBF4-F179-493C-942B-F8214848451B}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\shivam kumar rajput\\desktop\\bl_2115000950\\businesslayer\\service\\registerhello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E9BED5F-88B8-43BD-9493-6E69F582B0D8}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\shivam kumar rajput\\desktop\\bl_2115000950\\repositorylayer\\service\\registerhellorl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E9BED5F-88B8-43BD-9493-6E69F582B0D8}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\shivam kumar rajput\\desktop\\bl_2115000950\\repositorylayer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0417A7CF-7727-4FA0-8726-F1DDE18FEB5F}|HelloApp.csproj|c:\\users\\shivam kumar rajput\\desktop\\bl_2115000950\\helloapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0417A7CF-7727-4FA0-8726-F1DDE18FEB5F}|HelloApp.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0417A7CF-7727-4FA0-8726-F1DDE18FEB5F}|HelloApp.csproj|c:\\users\\shivam kumar rajput\\desktop\\bl_2115000950\\helloapp\\helloapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0417A7CF-7727-4FA0-8726-F1DDE18FEB5F}|HelloApp.csproj|solutionrelative:helloapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0417A7CF-7727-4FA0-8726-F1DDE18FEB5F}|HelloApp.csproj|c:\\users\\shivam kumar rajput\\desktop\\bl_2115000950\\helloapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0417A7CF-7727-4FA0-8726-F1DDE18FEB5F}|HelloApp.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0417A7CF-7727-4FA0-8726-F1DDE18FEB5F}|HelloApp.csproj|c:\\users\\shivam kumar rajput\\desktop\\bl_2115000950\\helloapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0417A7CF-7727-4FA0-8726-F1DDE18FEB5F}|HelloApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0417A7CF-7727-4FA0-8726-F1DDE18FEB5F}|HelloApp.csproj|c:\\users\\shivam kumar rajput\\desktop\\bl_2115000950\\helloapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0417A7CF-7727-4FA0-8726-F1DDE18FEB5F}|HelloApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\BL_2115000950\\HelloApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\BL_2115000950\\HelloApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:01:11.97Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositoryLayer",
+              "DocumentMoniker": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\BL_2115000950\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\RepositoryLayer.csproj",
+              "ToolTip": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\BL_2115000950\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeToolTip": "..\\RepositoryLayer\\RepositoryLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-27T10:37:16.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterHelloRL.cs",
+              "DocumentMoniker": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\BL_2115000950\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "ToolTip": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\BL_2115000950\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:33:13.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HelloApp",
+              "DocumentMoniker": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\BL_2115000950\\HelloApp\\HelloApp.csproj",
+              "RelativeDocumentMoniker": "HelloApp.csproj",
+              "ToolTip": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\BL_2115000950\\HelloApp\\HelloApp.csproj",
+              "RelativeToolTip": "HelloApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-27T09:43:42.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterHello.cs",
+              "DocumentMoniker": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\BL_2115000950\\BusinessLayer\\Service\\RegisterHello.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Service\\RegisterHello.cs",
+              "ToolTip": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\BL_2115000950\\BusinessLayer\\Service\\RegisterHello.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Service\\RegisterHello.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:31:17.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\BL_2115000950\\HelloApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\BL_2115000950\\HelloApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:03:31.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\BL_2115000950\\HelloApp\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\BL_2115000950\\HelloApp\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:03:21.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\BL_2115000950\\HelloApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\BL_2115000950\\HelloApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T09:03:01.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\BL_2115000950\\HelloApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\BL_2115000950\\HelloApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T09:02:51.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
