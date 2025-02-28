@@ -1,0 +1,16 @@
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Class\28Feb\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Class\28Feb\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Class\28Feb\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Class\28Feb\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Class\28Feb\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Class\28Feb\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Class\28Feb\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Class\28Feb\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.sourcelink.json
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Class\28Feb\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Class\28Feb\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Class\28Feb\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Class\28Feb\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Class\28Feb\RepositoryLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Class\28Feb\RepositoryLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Class\28Feb\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\BL_2115000950\Class\28Feb\RepositoryLayer\obj\Debug\net6.0\Reposito.A0A61804.Up2Date
