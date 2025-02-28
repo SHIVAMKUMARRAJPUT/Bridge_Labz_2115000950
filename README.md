@@ -198,5 +198,13 @@
 
  ## 27-02-2025  
  - Basic Project of ASP.net
+ - 
+ ## 28-02-2025 Assignment 
+ - User Registration Application
+ - Fields: username , password, name , lname   
+
+ ## 28-02-2025  
+ - Application Project of ASP.net to get data from frontend and check with Database
+ - Revision Exception Handling
    
 
