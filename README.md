@@ -5,7 +5,7 @@
 
 ## 21-01-2025  
 - Static method call from static method  
-- Static method call from non-static method  
+- Static method call from non-static method   
 - Non-static method call from static method  
 - Non-static method call from non-static method  
 
