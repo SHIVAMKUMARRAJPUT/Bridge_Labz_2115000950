@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\EmployeeManagement\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9659088F-EFBF-4041-B234-376814678C79}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\shivam kumar rajput\\desktop\\employeemanagement\\employeemanagement\\repositorylayer\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9659088F-EFBF-4041-B234-376814678C79}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9659088F-EFBF-4041-B234-376814678C79}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\shivam kumar rajput\\desktop\\employeemanagement\\employeemanagement\\repositorylayer\\interface\\iaddemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9659088F-EFBF-4041-B234-376814678C79}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\interface\\iaddemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9659088F-EFBF-4041-B234-376814678C79}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\shivam kumar rajput\\desktop\\employeemanagement\\employeemanagement\\repositorylayer\\dto\\employeerequest .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9659088F-EFBF-4041-B234-376814678C79}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\dto\\employeerequest .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91AC780-57E4-468F-B0C9-1D14C87FEA67}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\shivam kumar rajput\\desktop\\employeemanagement\\employeemanagement\\employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91AC780-57E4-468F-B0C9-1D14C87FEA67}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91AC780-57E4-468F-B0C9-1D14C87FEA67}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\shivam kumar rajput\\desktop\\employeemanagement\\employeemanagement\\employeemanagement\\controllers\\employeemanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91AC780-57E4-468F-B0C9-1D14C87FEA67}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\employeemanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91AC780-57E4-468F-B0C9-1D14C87FEA67}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\shivam kumar rajput\\desktop\\employeemanagement\\employeemanagement\\employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F91AC780-57E4-468F-B0C9-1D14C87FEA67}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9659088F-EFBF-4041-B234-376814678C79}|RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\shivam kumar rajput\\desktop\\employeemanagement\\employeemanagement\\repositorylayer\\context\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9659088F-EFBF-4041-B234-376814678C79}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\context\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FF25BD-F40E-4D3C-AC92-DE4E070CA674}|CommonLayer\\CommonLayer.csproj|c:\\users\\shivam kumar rajput\\desktop\\employeemanagement\\employeemanagement\\commonlayer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3FF25BD-F40E-4D3C-AC92-DE4E070CA674}|CommonLayer\\CommonLayer.csproj|solutionrelative:commonlayer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91AC780-57E4-468F-B0C9-1D14C87FEA67}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\shivam kumar rajput\\desktop\\employeemanagement\\employeemanagement\\employeemanagement\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F91AC780-57E4-468F-B0C9-1D14C87FEA67}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688A8A9D-D986-4DF0-9883-33FC13FE32D3}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\shivam kumar rajput\\desktop\\employeemanagement\\employeemanagement\\businesslayer\\service\\employeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688A8A9D-D986-4DF0-9883-33FC13FE32D3}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\service\\employeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{688A8A9D-D986-4DF0-9883-33FC13FE32D3}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\shivam kumar rajput\\desktop\\employeemanagement\\employeemanagement\\businesslayer\\interface\\iemployeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{688A8A9D-D986-4DF0-9883-33FC13FE32D3}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\interface\\iemployeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAddEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\EmployeeManagement\\EmployeeManagement\\RepositoryLayer\\Interface\\IAddEmployee.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Interface\\IAddEmployee.cs",
+              "ToolTip": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\EmployeeManagement\\EmployeeManagement\\RepositoryLayer\\Interface\\IAddEmployee.cs",
+              "RelativeToolTip": "RepositoryLayer\\Interface\\IAddEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:59:57.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRequest .cs",
+              "DocumentMoniker": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\EmployeeManagement\\EmployeeManagement\\RepositoryLayer\\DTO\\EmployeeRequest .cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\DTO\\EmployeeRequest .cs",
+              "ToolTip": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\EmployeeManagement\\EmployeeManagement\\RepositoryLayer\\DTO\\EmployeeRequest .cs",
+              "RelativeToolTip": "RepositoryLayer\\DTO\\EmployeeRequest .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:59:13.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\EmployeeManagement\\EmployeeManagement\\RepositoryLayer\\Context\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Context\\EmployeeContext.cs",
+              "ToolTip": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\EmployeeManagement\\EmployeeManagement\\RepositoryLayer\\Context\\EmployeeContext.cs",
+              "RelativeToolTip": "RepositoryLayer\\Context\\EmployeeContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:46:45.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Controllers\\EmployeeManagementController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\EmployeeManagementController.cs",
+              "ToolTip": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Controllers\\EmployeeManagementController.cs",
+              "RelativeToolTip": "EmployeeManagement\\Controllers\\EmployeeManagementController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:49:52.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T09:10:15.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\EmployeeManagement\\EmployeeManagement\\RepositoryLayer\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Service\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\EmployeeManagement\\EmployeeManagement\\RepositoryLayer\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "RepositoryLayer\\Service\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:00:40.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeToolTip": "EmployeeManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:51:37.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\EmployeeManagement\\EmployeeManagement\\CommonLayer\\Employee.cs",
+              "RelativeDocumentMoniker": "CommonLayer\\Employee.cs",
+              "ToolTip": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\EmployeeManagement\\EmployeeManagement\\CommonLayer\\Employee.cs",
+              "RelativeToolTip": "CommonLayer\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:54:38.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmployeeBL.cs",
+              "DocumentMoniker": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\EmployeeManagement\\EmployeeManagement\\BusinessLayer\\Interface\\IEmployeeBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Interface\\IEmployeeBL.cs",
+              "ToolTip": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\EmployeeManagement\\EmployeeManagement\\BusinessLayer\\Interface\\IEmployeeBL.cs",
+              "RelativeToolTip": "BusinessLayer\\Interface\\IEmployeeBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:03:43.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeBL.cs",
+              "DocumentMoniker": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\EmployeeManagement\\EmployeeManagement\\BusinessLayer\\Service\\EmployeeBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Service\\EmployeeBL.cs",
+              "ToolTip": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\EmployeeManagement\\EmployeeManagement\\BusinessLayer\\Service\\EmployeeBL.cs",
+              "RelativeToolTip": "BusinessLayer\\Service\\EmployeeBL.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T14:05:13.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\nlog.config",
+              "RelativeDocumentMoniker": "EmployeeManagement\\nlog.config",
+              "ToolTip": "C:\\Users\\SHIVAM KUMAR RAJPUT\\Desktop\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\nlog.config",
+              "RelativeToolTip": "EmployeeManagement\\nlog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-01T15:50:35.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

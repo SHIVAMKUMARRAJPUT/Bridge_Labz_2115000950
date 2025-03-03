@@ -1,0 +1,35 @@
+D:\Dotnet Framework\Assignment34\EmployeeManagement\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+D:\Dotnet Framework\Assignment34\EmployeeManagement\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+D:\Dotnet Framework\Assignment34\EmployeeManagement\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+D:\Dotnet Framework\Assignment34\EmployeeManagement\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Framework\Assignment34\EmployeeManagement\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\Dotnet Framework\Assignment34\EmployeeManagement\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+D:\Dotnet Framework\Assignment34\EmployeeManagement\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Dotnet Framework\Assignment34\EmployeeManagement\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+D:\Dotnet Framework\Assignment34\EmployeeManagement\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+D:\Dotnet Framework\Assignment34\EmployeeManagement\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+D:\Dotnet Framework\Assignment34\EmployeeManagement\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+D:\Dotnet Framework\Assignment34\EmployeeManagement\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\Dotnet Framework\Assignment34\EmployeeManagement\BusinessLayer\bin\Debug\net6.0\CommonLayer.dll
+D:\Dotnet Framework\Assignment34\EmployeeManagement\BusinessLayer\bin\Debug\net6.0\RepositoryLayer.dll
+D:\Dotnet Framework\Assignment34\EmployeeManagement\BusinessLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\Dotnet Framework\Assignment34\EmployeeManagement\BusinessLayer\bin\Debug\net6.0\CommonLayer.pdb
+D:\Dotnet Framework\Assignment34\EmployeeManagement\BusinessLayer\obj\Debug\net6.0\Business.EA331CBA.Up2Date
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\BusinessLayer\bin\Debug\net6.0\CommonLayer.dll
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\BusinessLayer\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\BusinessLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\BusinessLayer\bin\Debug\net6.0\CommonLayer.pdb
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\BusinessLayer\obj\Debug\net6.0\BusinessLayer.sourcelink.json
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\BusinessLayer\obj\Debug\net6.0\Business.EA331CBA.Up2Date
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll

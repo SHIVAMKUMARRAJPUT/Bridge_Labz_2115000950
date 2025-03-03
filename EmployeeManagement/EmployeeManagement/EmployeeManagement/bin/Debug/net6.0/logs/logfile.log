@@ -1,0 +1,282 @@
+2025-03-01 21:36:28.1155 | Info | Microsoft.Hosting.Lifetime | Now listening on: https://localhost:7192 | 
+2025-03-01 21:36:28.1604 | Info | Microsoft.Hosting.Lifetime | Now listening on: http://localhost:5120 | 
+2025-03-01 21:36:28.2023 | Info | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. | 
+2025-03-01 21:36:28.2023 | Info | Microsoft.Hosting.Lifetime | Hosting environment: Development | 
+2025-03-01 21:36:28.2023 | Info | Microsoft.Hosting.Lifetime | Content root path: D:\Dotnet Framework\Assignment34\EmployeeManagement\EmployeeManagement\ | 
+2025-03-01 21:36:28.8506 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7192/Swagger/index.html - - | 
+2025-03-01 21:36:29.8608 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7192/Swagger/index.html - - - 200 - text/html;charset=utf-8 1013.4404ms | 
+2025-03-01 21:36:29.8865 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7192/Swagger/index.js - - | 
+2025-03-01 21:36:29.8865 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7192/_framework/aspnetcore-browser-refresh.js - - | 
+2025-03-01 21:36:29.8865 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7192/Swagger/index.js - - - 200 - application/javascript;charset=utf-8 3.0654ms | 
+2025-03-01 21:36:29.8946 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7192/_framework/aspnetcore-browser-refresh.js - - - 200 12368 application/javascript;+charset=utf-8 8.0866ms | 
+2025-03-01 21:36:29.9246 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7192/_vs/browserLink - - | 
+2025-03-01 21:36:29.9981 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7192/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 73.5808ms | 
+2025-03-01 21:36:30.4915 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7192/Swagger/v1/swagger.json - - | 
+2025-03-01 21:36:30.4915 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7192/Swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 5.8261ms | 
+2025-03-01 21:36:42.1039 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7192/EmployeeManagement - - | 
+2025-03-01 21:36:42.1039 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executing endpoint 'EmployeeManagement.Controllers.EmployeeManagementController.Get (EmployeeManagement)' | 
+2025-03-01 21:36:42.1221 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Route matched with {action = "Get", controller = "EmployeeManagement"}. Executing controller action with signature System.String Get() on controller EmployeeManagement.Controllers.EmployeeManagementController (EmployeeManagement). | 
+2025-03-01 21:36:42.3893 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor | Executing ObjectResult, writing value of type 'System.String'. | 
+2025-03-01 21:36:42.3942 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Executed action EmployeeManagement.Controllers.EmployeeManagementController.Get (EmployeeManagement) in 267.9605ms | 
+2025-03-01 21:36:42.3942 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executed endpoint 'EmployeeManagement.Controllers.EmployeeManagementController.Get (EmployeeManagement)' | 
+2025-03-01 21:36:42.3942 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7192/EmployeeManagement - - - 200 - text/plain;+charset=utf-8 295.1316ms | 
+2025-03-01 21:37:26.6668 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 POST https://localhost:7192/EmployeeManagement application/json 53 | 
+2025-03-01 21:37:26.6921 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executing endpoint 'EmployeeManagement.Controllers.EmployeeManagementController.AddEmployee (EmployeeManagement)' | 
+2025-03-01 21:37:26.7162 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Route matched with {action = "AddEmployee", controller = "EmployeeManagement"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddEmployee(CommonLayer.Employee) on controller EmployeeManagement.Controllers.EmployeeManagementController (EmployeeManagement). | 
+2025-03-01 21:37:26.8011 | Info | EmployeeManagement.Controllers.EmployeeManagementController | Received request to add employee: "Krishna" | 
+2025-03-01 21:37:26.8011 | Info | BusinessLayer.Service.EmployeeBL | Processing employee addition: "Krishna" | 
+2025-03-01 21:37:26.8011 | Info | RepositoryLayer.Service.EmployeeService | Adding a new employee: "Krishna" | 
+2025-03-01 21:37:27.4540 | Info | Microsoft.EntityFrameworkCore.Infrastructure | Entity Framework Core 6.0.36 initialized 'EmployeeContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.36' with options: None | 
+2025-03-01 21:37:28.3413 | Info | Microsoft.EntityFrameworkCore.Database.Command | Executed DbCommand (156ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Employees] ([Name], [Password])
+VALUES (@p0, @p1);
+SELECT [ID]
+FROM [Employees]
+WHERE @@ROWCOUNT = 1 AND [ID] = scope_identity(); | 
+2025-03-01 21:37:28.4143 | Info | RepositoryLayer.Service.EmployeeService | Employee added successfully: "Krishna" | 
+2025-03-01 21:37:28.4143 | Info | BusinessLayer.Service.EmployeeBL | Employee addition successful: "Krishna" | 
+2025-03-01 21:37:28.4143 | Info | EmployeeManagement.Controllers.EmployeeManagementController | Employee added successfully: "Krishna" | 
+2025-03-01 21:37:28.4143 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor | Executing OkObjectResult, writing value of type 'System.String'. | 
+2025-03-01 21:37:28.4143 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Executed action EmployeeManagement.Controllers.EmployeeManagementController.AddEmployee (EmployeeManagement) in 1700.1762ms | 
+2025-03-01 21:37:28.4143 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executed endpoint 'EmployeeManagement.Controllers.EmployeeManagementController.AddEmployee (EmployeeManagement)' | 
+2025-03-01 21:37:28.4143 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 POST https://localhost:7192/EmployeeManagement application/json 53 - 200 - text/plain;+charset=utf-8 1756.5257ms | 
+2025-03-03 14:39:20.0181 | Info | Microsoft.Hosting.Lifetime | Now listening on: https://localhost:7192 | 
+2025-03-03 14:39:20.1179 | Info | Microsoft.Hosting.Lifetime | Now listening on: http://localhost:5120 | 
+2025-03-03 14:39:20.2629 | Info | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. | 
+2025-03-03 14:39:20.2629 | Info | Microsoft.Hosting.Lifetime | Hosting environment: Development | 
+2025-03-03 14:39:20.2629 | Info | Microsoft.Hosting.Lifetime | Content root path: C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\EmployeeManagement\ | 
+2025-03-03 14:39:21.8026 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7192/Swagger - - | 
+2025-03-03 14:39:22.5372 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7192/Swagger - - - 301 0 - 739.2549ms | 
+2025-03-03 14:39:22.5772 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7192/Swagger/index.html - - | 
+2025-03-03 14:39:22.8986 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7192/Swagger/index.html - - - 200 - text/html;charset=utf-8 320.8724ms | 
+2025-03-03 14:39:22.9494 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7192/Swagger/swagger-ui.css - - | 
+2025-03-03 14:39:22.9494 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7192/Swagger/index.css - - | 
+2025-03-03 14:39:22.9494 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7192/Swagger/swagger-ui-standalone-preset.js - - | 
+2025-03-03 14:39:22.9494 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7192/_framework/aspnetcore-browser-refresh.js - - | 
+2025-03-03 14:39:22.9494 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7192/Swagger/swagger-ui-bundle.js - - | 
+2025-03-03 14:39:22.9494 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7192/_vs/browserLink - - | 
+2025-03-03 14:39:22.9494 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7192/Swagger/index.js - - | 
+2025-03-03 14:39:22.9812 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7192/Swagger/index.js - - - 200 - application/javascript;charset=utf-8 27.0597ms | 
+2025-03-03 14:39:22.9812 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7192/_framework/aspnetcore-browser-refresh.js - - - 200 12368 application/javascript;+charset=utf-8 41.1301ms | 
+2025-03-03 14:39:23.0087 | Info | Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware | Sending file. Request path: '/index.css'. Physical path: 'N/A' | 
+2025-03-03 14:39:23.0704 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7192/Swagger/index.css - - - 200 202 text/css 120.4495ms | 
+2025-03-03 14:39:23.0882 | Info | Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware | Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A' | 
+2025-03-03 14:39:23.0882 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7192/Swagger/swagger-ui.css - - - 200 154948 text/css 148.9545ms | 
+2025-03-03 14:39:23.0882 | Info | Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware | Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A' | 
+2025-03-03 14:39:23.1245 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7192/Swagger/swagger-ui-standalone-preset.js - - - 200 229223 application/javascript 173.2301ms | 
+2025-03-03 14:39:23.2628 | Info | Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware | Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A' | 
+2025-03-03 14:39:23.2628 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7192/Swagger/swagger-ui-bundle.js - - - 200 1466324 application/javascript 311.9406ms | 
+2025-03-03 14:39:23.2628 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7192/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 320.4231ms | 
+2025-03-03 14:39:23.7385 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7192/Swagger/favicon-32x32.png - - | 
+2025-03-03 14:39:23.7385 | Info | Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware | Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A' | 
+2025-03-03 14:39:23.7385 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7192/Swagger/v1/swagger.json - - | 
+2025-03-03 14:39:23.7465 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7192/Swagger/favicon-32x32.png - - - 200 628 image/png 3.2284ms | 
+2025-03-03 14:39:23.7625 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7192/Swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 18.5365ms | 
+2025-03-03 14:39:58.3931 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 POST https://localhost:7192/EmployeeManagement application/json 53 | 
+2025-03-03 14:39:58.4202 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executing endpoint 'EmployeeManagement.Controllers.EmployeeManagementController.AddEmployee (EmployeeManagement)' | 
+2025-03-03 14:39:58.4557 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Route matched with {action = "AddEmployee", controller = "EmployeeManagement"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult AddEmployee(CommonLayer.Employee) on controller EmployeeManagement.Controllers.EmployeeManagementController (EmployeeManagement). | 
+2025-03-03 14:39:58.9257 | Info | EmployeeManagement.Controllers.EmployeeManagementController | Received request to add employee: "abcd" | 
+2025-03-03 14:39:58.9336 | Info | BusinessLayer.Service.EmployeeBL | Processing employee addition: "abcd" | 
+2025-03-03 14:39:58.9336 | Info | RepositoryLayer.Service.EmployeeService | Adding a new employee: "abcd" | 
+2025-03-03 14:39:59.5599 | Info | Microsoft.EntityFrameworkCore.Infrastructure | Entity Framework Core 6.0.36 initialized 'EmployeeContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.36' with options: None | 
+2025-03-03 14:40:16.3038 | Error | Microsoft.EntityFrameworkCore.Database.Connection | An error occurred using the connection to database 'EmployeeDB' on server 'DESKTOP-P2CE3CN\SQLEXPRESS'. | 
+2025-03-03 14:40:16.3901 | Error | Microsoft.EntityFrameworkCore.Update | An exception occurred in the database while saving changes for context type 'RepositoryLayer.Context.EmployeeContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SNI_PN11, error: 26 - Error Locating Server/Instance Specified)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean withFailover, SqlAuthenticationMethod authType)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransaction(IsolationLevel isolationLevel)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:-1,State:0,Class:20 | Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SNI_PN11, error: 26 - Error Locating Server/Instance Specified)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean withFailover, SqlAuthenticationMethod authType)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransaction(IsolationLevel isolationLevel)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:-1,State:0,Class:20 HelpLink.ProdName: Microsoft SQL Server;HelpLink.EvtSrc: MSSQLServer;HelpLink.EvtID: -1;HelpLink.BaseHelpUrl: https://go.microsoft.com/fwlink;HelpLink.LinkId: 20476
+2025-03-03 14:40:16.5115 | Error | RepositoryLayer.Service.EmployeeService | An error occurred while adding the employee: "abcd" | Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SNI_PN11, error: 26 - Error Locating Server/Instance Specified)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean withFailover, SqlAuthenticationMethod authType)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransaction(IsolationLevel isolationLevel)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at RepositoryLayer.Service.EmployeeService.AddEmployee(Employee employee) in C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\RepositoryLayer\Service\EmployeeService.cs:line 28
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:-1,State:0,Class:20 HelpLink.ProdName: Microsoft SQL Server;HelpLink.EvtSrc: MSSQLServer;HelpLink.EvtID: -1;HelpLink.BaseHelpUrl: https://go.microsoft.com/fwlink;HelpLink.LinkId: 20476
+2025-03-03 14:40:16.5756 | Error | BusinessLayer.Service.EmployeeBL | Business logic error: Unable to add employee: "abcd" | System.Exception: An error occurred while adding the employee.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SNI_PN11, error: 26 - Error Locating Server/Instance Specified)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean withFailover, SqlAuthenticationMethod authType)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransaction(IsolationLevel isolationLevel)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at RepositoryLayer.Service.EmployeeService.AddEmployee(Employee employee) in C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\RepositoryLayer\Service\EmployeeService.cs:line 28
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:-1,State:0,Class:20
+   --- End of inner exception stack trace ---
+   at RepositoryLayer.Service.EmployeeService.AddEmployee(Employee employee) in C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\RepositoryLayer\Service\EmployeeService.cs:line 34
+   at BusinessLayer.Service.EmployeeBL.AddEmployee(Employee employee) in C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\BusinessLayer\Service\EmployeeBL.cs:line 28
+2025-03-03 14:40:16.6232 | Error | EmployeeManagement.Controllers.EmployeeManagementController | Internal Server Error while adding employee: "abcd" | System.Exception: Business logic error: Unable to add employee.
+ ---> System.Exception: An error occurred while adding the employee.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SNI_PN11, error: 26 - Error Locating Server/Instance Specified)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity, Boolean withFailover, SqlAuthenticationMethod authType)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at Microsoft.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry, SqlConnectionOverrides overrides)
+   at Microsoft.Data.SqlClient.SqlConnection.Open(SqlConnectionOverrides overrides)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternal(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.BeginTransaction(IsolationLevel isolationLevel)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.Execute(IEnumerable`1 commandBatches, IRelationalConnection connection)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(IList`1 entriesToSave)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(StateManager stateManager, Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChanges(Boolean acceptAllChangesOnSuccess)
+   at RepositoryLayer.Service.EmployeeService.AddEmployee(Employee employee) in C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\RepositoryLayer\Service\EmployeeService.cs:line 28
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:-1,State:0,Class:20
+   --- End of inner exception stack trace ---
+   at RepositoryLayer.Service.EmployeeService.AddEmployee(Employee employee) in C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\RepositoryLayer\Service\EmployeeService.cs:line 34
+   at BusinessLayer.Service.EmployeeBL.AddEmployee(Employee employee) in C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\BusinessLayer\Service\EmployeeBL.cs:line 28
+   --- End of inner exception stack trace ---
+   at BusinessLayer.Service.EmployeeBL.AddEmployee(Employee employee) in C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\BusinessLayer\Service\EmployeeBL.cs:line 34
+   at EmployeeManagement.Controllers.EmployeeManagementController.AddEmployee(Employee employee) in C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\EmployeeManagement\Controllers\EmployeeManagementController.cs:line 31
+2025-03-03 14:40:16.6494 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor | Executing ObjectResult, writing value of type '<>f__AnonymousType0`2[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. | 
+2025-03-03 14:40:16.6614 | Info | Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker | Executed action EmployeeManagement.Controllers.EmployeeManagementController.AddEmployee (EmployeeManagement) in 18198.8188ms | 
+2025-03-03 14:40:16.6614 | Info | Microsoft.AspNetCore.Routing.EndpointMiddleware | Executed endpoint 'EmployeeManagement.Controllers.EmployeeManagementController.AddEmployee (EmployeeManagement)' | 
+2025-03-03 14:40:16.7019 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 POST https://localhost:7192/EmployeeManagement application/json 53 - 500 - application/json;+charset=utf-8 18308.7835ms | 
+2025-03-03 18:32:23.0490 | Info | Microsoft.Hosting.Lifetime | Now listening on: https://localhost:7192 | 
+2025-03-03 18:32:23.0981 | Info | Microsoft.Hosting.Lifetime | Now listening on: http://localhost:5120 | 
+2025-03-03 18:32:23.2622 | Info | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. | 
+2025-03-03 18:32:23.2622 | Info | Microsoft.Hosting.Lifetime | Hosting environment: Development | 
+2025-03-03 18:32:23.2622 | Info | Microsoft.Hosting.Lifetime | Content root path: C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\EmployeeManagement\ | 
+2025-03-03 18:32:24.2975 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7192/Swagger/index.html - - | 
+2025-03-03 18:32:24.6608 | Error | Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware | An unhandled exception has occurred while executing the request. | System.MissingMethodException: Method not found: 'Void System.Text.Json.Serialization.Metadata.JsonObjectInfoValues`1.set_ObjectCreator(System.Func`1<!0>)'.
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIOptionsJsonContext.get_ConfigObject()
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.GetIndexArguments()
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.RespondWithFile(HttpResponse response, String fileName)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2025-03-03 18:32:24.7874 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7192/Swagger/index.html - - - 500 - text/html;+charset=utf-8 494.0204ms | 
+2025-03-03 18:32:24.8465 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7192/_framework/aspnetcore-browser-refresh.js - - | 
+2025-03-03 18:32:24.8465 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7192/_vs/browserLink - - | 
+2025-03-03 18:32:24.8540 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7192/_framework/aspnetcore-browser-refresh.js - - - 200 12368 application/javascript;+charset=utf-8 7.5361ms | 
+2025-03-03 18:32:24.9420 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7192/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 95.5275ms | 
+2025-03-03 18:32:25.0000 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7192/favicon.ico - - | 
+2025-03-03 18:32:25.0074 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7192/favicon.ico - - - 404 0 - 7.3831ms | 
+2025-03-03 18:44:16.3899 | Info | Microsoft.Hosting.Lifetime | Now listening on: https://localhost:7192 | 
+2025-03-03 18:44:16.4614 | Info | Microsoft.Hosting.Lifetime | Now listening on: http://localhost:5120 | 
+2025-03-03 18:44:16.7348 | Info | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. | 
+2025-03-03 18:44:16.7348 | Info | Microsoft.Hosting.Lifetime | Hosting environment: Development | 
+2025-03-03 18:44:16.7348 | Info | Microsoft.Hosting.Lifetime | Content root path: C:\Users\SHIVAM KUMAR RAJPUT\Desktop\EmployeeManagement\EmployeeManagement\EmployeeManagement\ | 
+2025-03-03 18:44:17.8838 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7192/Swagger/index.html - - | 
+2025-03-03 18:44:18.2027 | Error | Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware | An unhandled exception has occurred while executing the request. | System.MissingMethodException: Method not found: 'Void System.Text.Json.Serialization.Metadata.JsonObjectInfoValues`1.set_ObjectCreator(System.Func`1<!0>)'.
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIOptionsJsonContext.get_ConfigObject()
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.GetIndexArguments()
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.RespondWithFile(HttpResponse response, String fileName)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2025-03-03 18:44:18.3874 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7192/Swagger/index.html - - - 500 - text/html;+charset=utf-8 506.9693ms | 
+2025-03-03 18:44:18.4562 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7192/_vs/browserLink - - | 
+2025-03-03 18:44:18.4562 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7192/_framework/aspnetcore-browser-refresh.js - - | 
+2025-03-03 18:44:18.4653 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7192/_framework/aspnetcore-browser-refresh.js - - - 200 12368 application/javascript;+charset=utf-8 9.2476ms | 
+2025-03-03 18:44:18.6082 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7192/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 151.9477ms | 
+2025-03-03 18:44:18.6518 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request starting HTTP/2 GET https://localhost:7192/favicon.ico - - | 
+2025-03-03 18:44:18.6639 | Info | Microsoft.AspNetCore.Hosting.Diagnostics | Request finished HTTP/2 GET https://localhost:7192/favicon.ico - - - 404 0 - 12.0451ms | 
