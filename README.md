@@ -206,5 +206,16 @@
  ## 28-02-2025  
  - Application Project of ASP.net to get data from frontend and check with Database
  - Revision Exception Handling
+ ## 17-03-2025  
+ - Basic of JS
+ ##  17-03-2025 Assignment
+ - Control Statment
+ - Switch Case
+ - if and Else
+ - if and else if and else
+
+ ##  18-03-2025 Assignment
+ -Basic codes of Arrays
+ -Basic codes of Maps
    
 
